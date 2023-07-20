@@ -1,6 +1,9 @@
 # TrustToken Audits
 TrustToken Smart Contract Audits
 
+### Carbon release (StructuredPortfolio, TrancheVault)
+https://github.com/trusttoken/contracts-carbon/tree/main/audits
+
 ### TrueUSD
 proxy: https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376  
 
