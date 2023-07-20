@@ -1,7 +1,7 @@
 # TrustToken Audits
 TrustToken Smart Contract Audits
 
-### Carbon release (StructuredPortfolio, TrancheVault)
+### TrueFi Carbon (StructuredPortfolio, TrancheVault)
 https://github.com/trusttoken/contracts-carbon/tree/main/audits
 
 ### TrueUSD
